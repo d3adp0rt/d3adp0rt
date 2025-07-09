@@ -43,7 +43,6 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#F0E68C)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#F0E68C)
-![Tkinter](https://img.shields.io/badge/-Tkinter-090909?style=for-the-badge&logo=python&logoColor=FFDD00)
 ![NASM](https://img.shields.io/badge/-NASM-090909?style=for-the-badge&logo=asm-6502&logoColor=FF6347)
 
 ### Socials
