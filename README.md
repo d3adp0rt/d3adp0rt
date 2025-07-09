@@ -1,10 +1,8 @@
 # Hi, I’m Sasha
 
-I’m a system-level developer. I specialize in building low-level tools and utilities using C++, Python, and Assembly. I focus on direct control over the system, creating fast, minimal, and functional software with a focus on performance and transparency
-
-Currently self-educating and experimenting in systems programming, scripting, and reverse engineering. I often develop utilities for Windows: network tools, bots, CLI interfaces, data sniffers, and process monitors
-
-Occasionally, I participate in experimental coding projects and prototypes to push limits and build tools under constrained time or resources
+####I’m a system-level developer. I specialize in building low-level tools and utilities using C++, Python, and Assembly. I focus on direct control over the system, creating fast, minimal, and functional software with a focus on performance and transparency
+##Currently self-educating and experimenting in systems programming, scripting, and reverse engineering. I often develop utilities for Windows: network tools, bots, CLI interfaces, data sniffers, and process monitors
+##Occasionally, I participate in experimental coding projects and prototypes to push limits and build tools under constrained time or resources
 
 ---
 
