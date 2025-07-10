@@ -29,8 +29,6 @@
 
 ### 🛠 Sample Projects
 
-> _Repos coming soon — I’m currently polishing and organizing my toolset._
-
 - `process-spy`: Lightweight process watcher with logging
 - `wifi-dump`: Extractor for saved Wi-Fi credentials (Windows)
 - `port-scan-x`: Fast asynchronous port scanner
